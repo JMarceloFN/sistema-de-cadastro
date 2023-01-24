@@ -4,4 +4,4 @@
 
 Para rodar esse projeto em sua máquina, digite:
 
-npm install react
+node app.js
